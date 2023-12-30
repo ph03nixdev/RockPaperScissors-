@@ -1,2 +1,2 @@
 # RockPaperScissors-
-Erstes Projekt 
+First Simple Project
